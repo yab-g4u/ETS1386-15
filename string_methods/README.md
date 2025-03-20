@@ -1,10 +1,10 @@
-#isdecimal() - the string method i chose to start with
+#isdecimal() 
 
 the purpose of isdecimal is it checks if all characters in the string are decimal digits.
 
 for example:
 number_string = "12345"
-is_decimal = number_string.isdecimal() #we expect it to return true since the elements in the string are decimals.therefore it Returns True
+is_decimal = number_string.isdecimal() # we expect it to return true since the elements in the string are decimals.therefore it Returns True
 
 #if we try empty strings
 
@@ -24,3 +24,5 @@ pro = "python3"
 result = pro.isalnum()
 
 print(result)
+
+#isnumeric() - it checks if all the elements in the strings are number or not
