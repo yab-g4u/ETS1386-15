@@ -10,7 +10,7 @@ in this assignment i have demonstrated the use of various Python string methods.
 
 **Example:**
 
-
+```
 number_string = "12345"
 is_decimal = number_string.isdecimal()
 print(is_decimal) # Output: True
@@ -172,4 +172,3 @@ print(title_case_string) # Output: This Is A Test String
 
 ```
 
-```
