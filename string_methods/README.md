@@ -2,7 +2,7 @@
 
 in this assignment i have demonstrated the use of various Python string methods. Each method is explained with a brief description and a code example.
 
-##1. `str.isdecimal()`
+## 1. `str.isdecimal()`
 
 **Purpose:** Checks if all characters in the string are decimal digits (0-9).
 
@@ -21,7 +21,7 @@ print(is_decimal) # Output: False
 
  ```
 
-##2. `str.isalnum()`
+## 2. `str.isalnum()`
 
 Purpose: Checks if all characters in the string are alphanumeric (letters or numbers) and the string is not empty.
 
@@ -41,7 +41,7 @@ result = pro2.isalnum()
 print(result) #output: False
 
 ```
-##3. `str.isnumeric()`
+## 3. `str.isnumeric()`
 
 Purpose: Checks if all characters in the string are numeric characters (including digits, fractions, and other numeric symbols) and the string is not empty.
 
@@ -66,7 +66,7 @@ print(is_numeric) # Output: False (contains a decimal point)
 
 ```
 
-##4. `str.capitalize()`
+## 4. `str.capitalize()`
 
 Purpose: Returns a copy of the string with the first character capitalized and the rest lowercased.
 
@@ -82,7 +82,7 @@ print(capitalized_sentence) # Output: The quick brown fox
 
 ```
 
-##5. `str.count(substring)`
+## 5. `str.count(substring)`
 
 Purpose: Returns the number of non-overlapping occurrences of a substring within the string.
 
@@ -100,7 +100,7 @@ count_of_o = text.count("o")
 print(count_of_o) # Output: 3
 ```
 
-##6. `str.startswith(prefix)`
+## 6. `str.startswith(prefix)`
 
 Purpose: Checks if the string starts with the specified prefix.
 
@@ -119,7 +119,7 @@ print(starts_with_goodbye) # Output: False
 
 ```
 
-##7. `str.endswith(suffix)`
+## 7. `str.endswith(suffix)`
 
 Purpose: Checks if the string ends with the specified suffix.
 
@@ -138,7 +138,7 @@ print(ends_with_hello) # Output: False
 
 ```
 
-##8. `str.swapcase()`
+## 8. `str.swapcase()`
 
 Purpose: Returns a copy of the string with uppercase characters converted to lowercase and vice versa.
 
@@ -154,7 +154,7 @@ print(swapped_case) # Output: hELLO wORLD
 
 ```
 
-##9. `str.title()`
+## 9. `str.title()`
 
 Purpose: Returns a copy of the string where the first letter of each word is capitalized (title case).
 
