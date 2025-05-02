@@ -1,5 +1,4 @@
 
-````markdown
 # 📘 Dictionary Methods in Python
 
 This file demonstrates the most commonly used **dictionary methods** in Python with simple, beginner-friendly examples.
