@@ -1,9 +1,9 @@
 
 # 📘 Dictionary Methods in Python
 
-This file demonstrates the most commonly used **dictionary methods** in Python with simple, beginner-friendly examples.
+in this branch i have tried to demonstrate the most commonly used **dictionary methods** in Python 
 
-## 🔧 Methods Covered with Examples
+## 🔧 Methods i Covered with Examples
 
 ### 1. `get()`
 Safely retrieve a value for a key.
