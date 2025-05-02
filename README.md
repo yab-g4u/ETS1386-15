@@ -78,25 +78,6 @@ print(person)
 # Output: {'name': 'Alice', 'age': 26, 'email': 'alice@example.com'}
 ```
 
----
 
-## 📁 File Included
 
-* `dictionary_methods.py`: Python file with all method examples.
 
-## ▶️ How to Run
-
-Make sure you have Python installed, then run:
-
-```bash
-python dictionary_methods.py
-```
-
----
-
-Happy Learning! 🚀
-
-```
-
-Let me know if you'd like a `.zip` file or a GitHub repo structure suggestion too!
-```
