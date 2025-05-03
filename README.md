@@ -1,7 +1,6 @@
 # 📘 Python Tuples Assignment
 
-This assignment explores the basics and common operations of **tuples in Python**. Tuples are immutable sequences used to store collections of items. The examples below demonstrate various methods and features of tuples using easy-to-understand code.
-
+This assignment explores the basics and common operations of **tuples in Python**. Tuples are immutable sequences used to store collections of items. The examples below demonstrate various methods and features of tuples.
 ---
 
 ## 🔧 Tuple Methods and Operations
